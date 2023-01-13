@@ -6,11 +6,10 @@ module.exports = {
   theme: {
     extend: {},
     screens: {
-      'ms': '320px',
-      'mm': '375px',
-      'ml': '425px',
-      't': '768px',
-      'l': '1024px',
+      'Cel': '320px',
+      'Tab': '481px',
+      'Not': '769px',
+      'Pc': '1279px'
     },
     colors: {
       "transparent": 'transparent',
